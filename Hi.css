@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+    color: chocolate;
+    text-align: center;
+}
+h2 {
+
+}
+header {
+    background-color: burlywood;
+    border-radius: 2px;
+}
+.box {
+    border-radius: 6px;
+    background-color: burlywood;
+}
