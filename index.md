@@ -13,9 +13,9 @@
     <div class="container">
         <h1 id="T">Bitte raten sie eine Zahl</h1>
         <div class="box">
-        <h2 id="Fer">Versuche: 0</h2>
+        <h2 id="Fer">Bisherige Versuche: 0</h2>
         <form onsubmit="A(); return false;">
-            <input id="Eingabe" type="number" required placeholder="Bitt eingeben">
+            <input id="Eingabe" type="number" required placeholder="Bitt die zahl eingeben">
             <button>Einlogen</button>
         </form>
         </div>
@@ -23,4 +23,5 @@
    <script src="Hi.js"></script>
 </body>
 </html>
+
 
