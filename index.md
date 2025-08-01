@@ -11,7 +11,7 @@
 <body>
     <header>Zalen Rate Spiel</header>
     <div class="container">
-        <h1 id="T">Bitte raten!</h1>
+        <h1 id="T">Bitte raten sie eine Zahl</h1>
         <div class="box">
         <h2 id="Fer">Versuche: 0</h2>
         <form onsubmit="A(); return false;">
@@ -23,3 +23,4 @@
    <script src="Hi.js"></script>
 </body>
 </html>
+
