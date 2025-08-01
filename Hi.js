@@ -3,7 +3,7 @@ let F =0;
 
 function A() {
     F++;
-    Fer.innerHTML = "Versuche: "+ F;
+    Fer.innerHTML = "Bisherige Versuche: "+ F;
     
 
     if(RN == Eingabe.value) {
@@ -15,4 +15,5 @@ function A() {
     if(RN > Eingabe.value) {
         T.innerHTML ="Das ist zu Tiff"
     }
+
 }
