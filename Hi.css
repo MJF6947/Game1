@@ -12,5 +12,7 @@ header {
 }
 .box {
     border-radius: 6px;
+    with: 98%;
     background-color: burlywood;
+
 }
